@@ -23,8 +23,8 @@ This is a simple alarm clock application built using Kivy, KivyMD, and Pygame. T
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/alarm-clock-app.git
-    cd alarm-clock-app
+   [ git clone https://github.com/your-username/alarm-clock-app.git
+    cd alarm-clock-app](https://github.com/Janhavi30052002/AlarmKivy.git)
     ```
 
 2. Install the required dependencies:
