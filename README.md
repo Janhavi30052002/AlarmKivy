@@ -21,19 +21,19 @@ This is a simple alarm clock application built using Kivy, KivyMD, and Pygame. T
 ## Installation
 
 1. Clone the repository:
-
+   https://github.com/Janhavi30052002/AlarmKivy.git
     ```bash
    [ git clone https://github.com/your-username/alarm-clock-app.git
     cd alarm-clock-app](https://github.com/Janhavi30052002/AlarmKivy.git)
     ```
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 
     ```bash
     pip install kivy kivymd pygame
     ```
 
-3. Ensure you have an alarm sound file named `alarm_sound.mp3` in the project directory.
+4. Ensure you have an alarm sound file named `alarm_sound.mp3` in the project directory.
 
 ## Usage
 
